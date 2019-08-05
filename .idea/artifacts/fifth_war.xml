@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="fifth:war">
+    <output-path>$PROJECT_DIR$/fifth/docker-dir</output-path>
+    <root id="archive" name="fifth_war.war">
+      <element id="artifact" artifact-name="fifth:war exploded" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/fifth/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

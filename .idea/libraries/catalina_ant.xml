@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="catalina-ant">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/third/lib/catalina-ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/tomcat-coyote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/annotations-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/catalina-tribes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/el-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/jasper-el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/jasper.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/catalina-ha.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/tomcat-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/ecj-4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/jaspic-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/catalina.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/tomcat-jni.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/tomcat-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/tomcat-websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/third/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
